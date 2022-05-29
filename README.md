@@ -1,0 +1,3 @@
+- Hi, I’m @AlanAbney, a young professional that is seeking to advance my technical knowledge and career.
+- I’m currently learning Linux Systems Administration and Computer Networking.
+- I'm fresh to Bash scripting, and will be adding some personal projects here soon.
